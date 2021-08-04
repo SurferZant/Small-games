@@ -1,0 +1,6 @@
+#a greeting and interaction between the computer and the user
+cpuHi = "Hello world! My name is Lemongrab"
+print (cpuHi)
+print ("what is your name?")
+myName = input()
+print ("WoW! I never thought I would meet someone with a name as special as " + myName)
